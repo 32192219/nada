@@ -1,2 +1,3 @@
 # nada
-we re cooking something cool
+data science,computer science,technologies ; 
+our world
